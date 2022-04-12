@@ -18,4 +18,4 @@ Para mi la cultura de un profesional del software se basa en:
 
 -No tener miedo a equivocarse 
 
-Puede que esto se importante para mi de este momento pero a futuro quiza cambie
+Puede que esto se importante para mi en este momento pero a futuro quiza cambie
