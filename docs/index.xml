@@ -20,7 +20,24 @@ Para mi la cultura de un profesional del software se basa en:
 -Confianza
 -Disposición a mejorar y aprender
 -No tener miedo a equivocarse
-Puede que esto se importante para mi de este momento pero a futuro quiza cambie</description>
+Puede que esto se importante para mi en este momento pero a futuro quiza cambie</description>
+    </item>
+    
+    <item>
+      <title>Vuelo Launch X</title>
+      <link>https://ricardoasantosv.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricardoasantosv.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Mis aprendizajes durante este vuelo de Launch X fueron:
+-Introducción al lenguaje de programación Python
+-Enrequesimiento del control de versiones con git
+-Aplciación de Fork a repositorios y como hacer PR
+-Conocimento de Front End con HTML,css yn javascript
+-Uso de Apis con javascript
+-Integracion de de HTMl cpn css y javascript
+-Actualmente, un conocimiento más profundo con javascript y node
+En espera de seguir aprendiendo cosas nuevas!!</description>
     </item>
     
     <item>
