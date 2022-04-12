@@ -10,7 +10,10 @@ Me concidero una persona con varios pasatiempos y gustos como es la técnología
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis expectatiavas para este viaje son:
+
 -Aprender cosas interesantes de Javascript junto con node
+
 -Implementación del FrontEnd con el backend
+
 -Pareder cosas y medios nuevos de conocimientos para diversas áreas como es GitHub
 🚀
