@@ -9,9 +9,13 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 Para mi la cultura de un profesional del software se basa en:
 
 -Aprendizaje
+
 -Honestidad
+
 -Confianza
+
 -Disposición a mejorar y aprender
+
 -No tener miedo a equivocarse 
 
 Puede que esto se importante para mi de este momento pero a futuro quiza cambie
